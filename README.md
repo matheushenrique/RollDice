@@ -1,4 +1,4 @@
-# RollDicee 🎲
+# RollDice 🎲
 
 ## Sobre
 
